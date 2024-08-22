@@ -1,4 +1,5 @@
-name = "Bea"
-age = 40
-print(name)
-print(age)
+## Just a comment to practice comments
+number = "20"
+age = int(number)
+print(isinstance(age, int))
+
